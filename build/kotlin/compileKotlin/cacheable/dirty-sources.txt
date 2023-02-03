@@ -1,0 +1,3 @@
+C:\Users\Dev06\IdeaProjects\week_16\src\main\kotlin\MyInterface.kt
+C:\Users\Dev06\IdeaProjects\week_16\src\main\kotlin\Main.kt
+C:\Users\Dev06\IdeaProjects\week_16\src\main\kotlin\Person.kt
